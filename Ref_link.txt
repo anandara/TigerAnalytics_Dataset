@@ -1,0 +1,10 @@
+
+https://medium.com/@fabio.italiano/the-apriori-algorithm-in-python-expanding-thors-fan-base-501950d55be9
+
+ 
+
+https://www.geeksforgeeks.org/implementing-apriori-algorithm-in-python/
+
+ 
+
+https://rstudio-pubs-static.s3.amazonaws.com/433544_fe7caab83da844ee93bd9aff7cc41d71.html
